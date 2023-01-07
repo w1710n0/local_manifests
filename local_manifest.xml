@@ -2,7 +2,7 @@
 <manifest>
 
    <remote name="tree"
-           fetch="https://github.com/w1710n0"
+           fetch="https://github.com/ItsVixano"
            revision="xdroid-13" />
    
    <remote name="kernel"
