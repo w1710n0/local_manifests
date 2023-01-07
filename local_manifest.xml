@@ -3,7 +3,7 @@
 
    <remote name="tree"
            fetch="https://github.com/ItsVixano"
-           revision="xdroid-13" />
+           revision="lineage-20" />
    
    <remote name="kernel"
            fetch="https://github.com/ItsVixano"
